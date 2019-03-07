@@ -1,0 +1,9 @@
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano\bin\Debug\netcoreapp2.1\NumeralRomano.deps.json
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano\bin\Debug\netcoreapp2.1\NumeralRomano.dll
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano\bin\Debug\netcoreapp2.1\NumeralRomano.pdb
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano\obj\Debug\netcoreapp2.1\NumeralRomano.csprojAssemblyReference.cache
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano\obj\Debug\netcoreapp2.1\NumeralRomano.csproj.CoreCompileInputs.cache
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano\obj\Debug\netcoreapp2.1\NumeralRomano.AssemblyInfoInputs.cache
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano\obj\Debug\netcoreapp2.1\NumeralRomano.AssemblyInfo.cs
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano\obj\Debug\netcoreapp2.1\NumeralRomano.dll
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano\obj\Debug\netcoreapp2.1\NumeralRomano.pdb

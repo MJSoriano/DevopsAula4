@@ -1,0 +1,14 @@
+c:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.ConsoleApp\bin\Debug\netcoreapp2.1\NumeralRomano.ConsoleApp.deps.json
+c:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.ConsoleApp\bin\Debug\netcoreapp2.1\NumeralRomano.ConsoleApp.runtimeconfig.json
+c:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.ConsoleApp\bin\Debug\netcoreapp2.1\NumeralRomano.ConsoleApp.runtimeconfig.dev.json
+c:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.ConsoleApp\bin\Debug\netcoreapp2.1\NumeralRomano.ConsoleApp.dll
+c:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.ConsoleApp\bin\Debug\netcoreapp2.1\NumeralRomano.ConsoleApp.pdb
+c:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.ConsoleApp\obj\Debug\netcoreapp2.1\NumeralRomano.ConsoleApp.csprojAssemblyReference.cache
+c:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.ConsoleApp\obj\Debug\netcoreapp2.1\NumeralRomano.ConsoleApp.csproj.CoreCompileInputs.cache
+c:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.ConsoleApp\obj\Debug\netcoreapp2.1\NumeralRomano.ConsoleApp.AssemblyInfoInputs.cache
+c:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.ConsoleApp\obj\Debug\netcoreapp2.1\NumeralRomano.ConsoleApp.AssemblyInfo.cs
+c:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.ConsoleApp\obj\Debug\netcoreapp2.1\NumeralRomano.ConsoleApp.dll
+c:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.ConsoleApp\obj\Debug\netcoreapp2.1\NumeralRomano.ConsoleApp.pdb
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.ConsoleApp\bin\Debug\netcoreapp2.1\NumeralRomano.dll
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.ConsoleApp\bin\Debug\netcoreapp2.1\NumeralRomano.pdb
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.ConsoleApp\obj\Debug\netcoreapp2.1\NumeralRomano.ConsoleApp.csproj.CopyComplete
