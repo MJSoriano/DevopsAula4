@@ -1,0 +1,17 @@
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.Tests\bin\Debug\netcoreapp2.1\NumeralRomano.Tests.deps.json
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.Tests\bin\Debug\netcoreapp2.1\NumeralRomano.Tests.runtimeconfig.json
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.Tests\bin\Debug\netcoreapp2.1\NumeralRomano.Tests.runtimeconfig.dev.json
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.Tests\bin\Debug\netcoreapp2.1\NumeralRomano.Tests.dll
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.Tests\bin\Debug\netcoreapp2.1\NumeralRomano.Tests.pdb
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.Tests\bin\Debug\netcoreapp2.1\NumeralRomano.dll
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.Tests\bin\Debug\netcoreapp2.1\NumeralRomano.pdb
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.Tests\obj\Debug\netcoreapp2.1\NumeralRomano.Tests.csprojAssemblyReference.cache
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.Tests\obj\Debug\netcoreapp2.1\NumeralRomano.Tests.csproj.CoreCompileInputs.cache
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.Tests\obj\Debug\netcoreapp2.1\NumeralRomano.Tests.AssemblyInfoInputs.cache
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.Tests\obj\Debug\netcoreapp2.1\NumeralRomano.Tests.AssemblyInfo.cs
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.Tests\obj\Debug\netcoreapp2.1\NumeralRomano.Tests.csproj.CopyComplete
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.Tests\obj\Debug\netcoreapp2.1\NumeralRomano.Tests.dll
+C:\Users\1147990\source\TDDNumeralRomano\TDDNumeralRomano\NumeralRomano.Tests\obj\Debug\netcoreapp2.1\NumeralRomano.Tests.pdb

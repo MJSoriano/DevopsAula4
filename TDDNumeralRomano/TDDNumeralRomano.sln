@@ -3,13 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeralRomano.Console", "NumeralRomano.Console\NumeralRomano.Console.csproj", "{D772AE08-9620-4125-9CA9-EB592300A98E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeralRomano.ConsoleApp", "NumeralRomano.ConsoleApp\NumeralRomano.ConsoleApp.csproj", "{E44DA8EA-1CF8-496A-B986-325A18B973BF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeralRomano", "NumeralRomano\NumeralRomano.csproj", "{3405DE39-1B70-4239-94DC-D3E4A1E32BD5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeralRomano.Tests", "NumeralRomano.Tests\NumeralRomano.Tests.csproj", "{55AA4C42-C0CF-44B4-8612-A01559C0D93F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumeralRomano.ConsoleApp", "NumeralRomano.ConsoleApp\NumeralRomano.ConsoleApp.csproj", "{E44DA8EA-1CF8-496A-B986-325A18B973BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
